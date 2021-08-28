@@ -2,3 +2,6 @@
 # step 1- git install
 # step 2- create GitHub account
 # step 3- create repo
+# step 4- install git desktop or using command prompt
+# step 5- add new file
+# step 6- commit new file
