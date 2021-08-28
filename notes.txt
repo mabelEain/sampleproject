@@ -1,2 +1,4 @@
 # Today I have git section
 # step 1- git install
+# step 2- create GitHub account
+# step 3- create repo
